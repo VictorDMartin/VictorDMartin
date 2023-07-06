@@ -1,16 +1,13 @@
 ## Sejá bem vindo, sou o Victor De Martin! 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=VictorDMartin&show_icons=true&theme=transparent"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=VictorDmartin&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorDmartin&show_icons=true" />
-</picture>
+<a href="https://github.com/VictorDMartin/github-readme-stats">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorDMartin&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/VictorDMartin/convoychat">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorDMartin&layout=donut&langs_count=8&card_width=200&show_icons=true&theme=dark" />
+</a>
+
+
 
 - 🔭 Atualmente estou estudando back-end
 - 🌱 Estudando PHP, Python e MySQL
