@@ -1,4 +1,4 @@
-## Sejá bem vindo, sou o Victor De Martin! 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=7aa2f7&multiline=true&width=500&height=80&lines=Seja bem vindo, sou o Victor; Welcome I am Victor" alt="Typing SVG" />
 
 <a href="https://github.com/VictorDMartin/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorDMartin&show_icons=true&theme=tokyonight&card_width=10" />
