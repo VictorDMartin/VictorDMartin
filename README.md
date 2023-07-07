@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=7aa2f7&multiline=true&width=1000&height=80&lines=Seja bem vindo, sou o Victor - Welcome, I am Victor" alt="Typing SVG" />
 
 <a href="https://github.com/VictorDMartin/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorDMartin&show_icons=true&theme=tokyonight&card_width=10" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorDMartin&show_icons=true&theme=tokyonight&card_width=11" />
 </a>
 <a href="https://github.com/VictorDMartin/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorDMartin&layout=donut&langs_count=20&card_width=100&show_icons=true&theme=tokyonight" />
