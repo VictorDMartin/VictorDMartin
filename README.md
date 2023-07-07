@@ -31,3 +31,11 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
 
+## Sobre mim
+
+- Estudante
+- Email: Victor.DeMartin.contato@gmail.com
+- Aberto a colaborar em projetos.
+- Atualmente estudando para aprimorar meu conhecimento.
+
+
